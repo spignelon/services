@@ -1,4 +1,3 @@
-# https://raw.githubusercontent.com/searxng/searx-instances/master/searxinstances/instances.yml
 anon.sx
 darmarit.org
 de.xcxc.ml
