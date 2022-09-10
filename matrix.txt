@@ -1,16 +1,12 @@
 matrix.org
 alternanet.fr
 matrix.sibnsk.net
-tchncs.de
 chat.privacytools.io
-privacytools.io
 feneas.org
 perthchat.org
 converser.eu
 matrix.tedomum.net
-tedomum.net
 chat.weho.st
-weho.st
 webchat.weho.st
 matrix.allmende.io
 allmende.io
